@@ -78,6 +78,7 @@ content:
         description: |
           - Enhanced user targeting by 25% with a traffic tool for the marketing team.
           - Implemented 15+ integrations with telecom operators and aggregators across various regions.
+          - Created many services that integrate Google Campaign 360, Google Sheets, Tiktok Campaigns to automate marketing team work.
           - Developed an automation tool for document backup, reducing the finance team’s workload by 2 hours per day.
 
       - layout: left
@@ -85,15 +86,37 @@ content:
         sub_title: Senior Software Engineer
         caption: Jan 2022 – Apr 2023
         description: |
-          - Led a team to develop an HR system used across 29 countries.
-          - Upgraded a legacy system, improving responsiveness by 300%.
-          - Architected a global project for UN’s COP27 Climate Change event.
+          - Lead a team to implement HR system that have been used in more than 29 countries for local and global clients in different industries.
+          - Upgraded an old asp.net 4.2 to .net core for Mobil Petroleum and successfully identified system bottlenecks and boosted system responsive time by 300%.
+          - Orchestrated task delegation among team members and conducted structured peer programming and code reviews for junior staff; these efforts led to a 30% reduction in bug fixes post-launch and accelerated project timelines by 20%.
+          - Planned and architected Cop27 project for climate change competition that is used by 105 nationalities and in UN Global Event. 
 
+
+      - layout: left
+        title: Najmtech, Sudan
+        sub_title: Full-Stack Developer
+        caption: Dec 2018 – Jul 2021
+        description: |
+          - Developed, coordinated and successfully delivered 5 ERP modules from conception to delivery.
+          - Created an automation tool to automate repeated tasks which increased development speed by more than 200%.
+          - Ensured tight cooperation with other engineers, designers and analysts through active listening and systematic communication.
+
+      
+      - layout: left
+        title: Reliance Technology, Sudan
+        sub_title: Full-Stack Developer
+        caption: Jan 2017 – Jul 2018
+        description: |
+          - Obtained and elicited software requirements from customer and presented final product to the managers;
+          - Developed and designed various robust solutions for more than 3 different industries that helped them to boost production and increase products quality.
+          - Planned and delivered a tool to automate essential development tasks which doubled team productivity and cut the development time by 50%.
+
+          
   - title: Education
     layout: list
     content:
       - layout: left
-        title: Arab Academy for Science, Technology & Maritime Transport, Egypt
+        title: Arab Academy for Science Technology & Maritime Transport, Egypt
         sub_title: Post Graduate Diploma in Computer Science
         caption: 2022 - 2023
         description: "Completed an in-depth program in computer science that covered advanced topics such as data science, algorithms, machine learning, and software engineering. Developed a strong foundation in programming, statistical analysis, and data-driven decision-making. Gained practical experience in data processing, predictive modeling, and using cutting-edge tools and techniques to address complex computational problems. The program emphasized analytical problem-solving and teamwork, preparing me for advanced roles in data science and AI."

@@ -141,7 +141,7 @@ content:
       - Farming
 
       Look at this cool image  
-      ![Farming](/modern-resume-theme/images/farming.jpg "Farming")
+      ![Farming](/images/farming.jpg "Farming")
       
 # Footer
 footer_show_references: true

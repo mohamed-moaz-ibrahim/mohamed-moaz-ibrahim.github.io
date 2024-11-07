@@ -1,3 +1,7 @@
+this is resume using Github Pages.
+
+[check my resume website](https://mohamed-moaz-ibrahim.github.io)
+
 # Usage
 
 _config.yml this file contains all the content for your resume.

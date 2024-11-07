@@ -1,3 +1,5 @@
+all steps to create a same resume could be found in this [repo](https://github.com/sproogen/modern-resume-theme?tab=readme-ov-file)
+
 this is resume using Github Pages.
 
 [check my resume website](https://mohamed-moaz-ibrahim.github.io)

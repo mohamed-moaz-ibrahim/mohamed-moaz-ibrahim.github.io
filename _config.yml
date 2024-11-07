@@ -131,6 +131,18 @@ content:
         sub_title: Microsoft, 2020
         description: "Acquired skills in developing, deploying, and managing web applications using Microsoft technologies, with a focus on ASP.NET and SQL Server."
 
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      - Chess
+      - Drones
+      - Swimming
+      - Farming
+
+      Look at this cool image  
+      ![Farming](/modern-resume-theme/images/farming.jpg "Farming")
+      
 # Footer
 footer_show_references: true
 # references_title: References available upon request
